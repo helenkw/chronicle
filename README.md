@@ -1,4 +1,4 @@
-### chronicle
+## chronicle
 
 Ports book data from Goodreads to Notion.
 

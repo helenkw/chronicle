@@ -1,6 +1,5 @@
 from classes import *
 from datetime import datetime as dt
-from enum import Enum
 from lxml import html
 import json
 import re

@@ -60,7 +60,6 @@ class BookDB:
         parent = {'database_id': db_id}
 
         shelves = [{'name': shelf.name} for shelf in book.shelves]
-        print(shelves)
         finished = book.date_read != NULL
 
         properties = {
